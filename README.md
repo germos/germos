@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm a .NET full stack developer/manager. I'd like to make some contributions for DevOps & DDD for .NET and share my thoughts and experience on my Blog and GitHub.
+I'm a .NET full stack developer/RD manager/software architect.
+I'd like to make some contributions for DevOps & DDD for .NET and share my thoughts and experience on my Blog and GitHub.
 
 ## Status
 
