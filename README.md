@@ -4,7 +4,7 @@ I'm a .NET full stack developer/manager. I'd like to make some contributions for
 
 ## Status
 
-- 🔭 I’m currently working on DevOps system integration and managing.
+- 🔭 I’m currently working on DevOps system integration, team building and managing.
 - 🌱 I’m currently learning DDD and making a Visual Stdio Template for everyone to quickly startup project with it.
 
 ## Contact Me
